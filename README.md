@@ -14,7 +14,7 @@ The tools used for this project include QuickDBD's ERD for database table planni
 ## Overview of the analysis
 ### Retiring employees by title
 Using an inner join between the employees table and the titles table, and filtering by a target age range based on birth dates, a new table was created that allows an analysis of the employees approaching retirement age with their job titles.  This table was then refined to remove duplicates and include only the job titles currently held by this group of retiring employees. Then the number of employees for each group were counted as shown in the table below.
-![Retiring employees by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Retiring_count_by_title.png]
+![Retiring employees by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/Retiring_count_by_title.png]
 
 ### Mentorship eligibility
 A list of candidate employees with their titles and departments for a mentorship program was created in a new table Using an inner join between the employees table, the departments table, and the titles tables, then filtering by a target age range based on birth dates. 
@@ -34,10 +34,10 @@ From the two new tables, we know the following:
 
 ## Summary
 By creating a new table showing the breakdown of the 1,549 employees that meet the mentorship program criteria by title (shown below), 
-![mentorship program employees by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/mentor_count_by_title.png]
+![mentorship program employees by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/mentor_count_by_title.png]
 
 we can combine these numbers with the retiring employees by title table (shown above) to do some analysis.
-![Employees retiring and mentorship program by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Comb_retirecount_mentorcount_title.png]
+![Employees retiring and mentorship program by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/Comb_retirecount_mentorcount_title.png]
 
 We've already determined that  72,458, or 24.2%, positions are currently held by employees approaching retirement. Replacing this number of employees will have an enormous impact on Pewlett-Hackard.
 
