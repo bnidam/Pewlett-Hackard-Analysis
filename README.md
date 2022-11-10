@@ -34,9 +34,11 @@ From the two new tables, we know the following:
 
 ## Summary
 By creating a new table showing the breakdown of the 1,549 employees that meet the mentorship program criteria by title (shown below), 
+
 ![mentorship program employees by title](https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/mentor_count_by_title.png)
 
 we can combine these numbers with the retiring employees by title table (shown above) to do some analysis.
+
 ![Employees retiring and mentorship program by title](https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/Comb_retirecount_mentorcount_title.png)
 
 We've already determined that 72,458, or 24.2%, positions are currently held by employees approaching retirement. Replacing this number of employees will have an enormous impact on Pewlett-Hackard.
