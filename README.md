@@ -21,16 +21,16 @@ A list of candidate employees with their titles and departments for a mentorship
 
 ## Results
 From the two new tables, we know the following:
-    - From the total employees currently employed by Pewlett-Hackard, just under 25% of the workforce will reach retirement age in the next few years. 
+ - From the total employees currently employed by Pewlett-Hackard, just under 25% of the workforce will reach retirement age in the next few years. 
         Total employees                                 300,024
         Employees approaching retirement age            72,458
         % of total employees approaching retirement age 24.2%
 
-    - While the bulk of the retirements will affect Senior positions, Engineers and Staff, there are only 2 Managers approaching retirement. 
+ - While the bulk of the retirements will affect Senior positions, Engineers and Staff, there are only 2 Managers approaching retirement. 
 
-    - Only 1,549 employees meet the mentorship program criteria.
+ - Only 1,549 employees meet the mentorship program criteria.
 
-    - If every employee who meets the mentorship program actually completes the program and steps into a role being vacated by retirement, this would only fill 2.1% of these positions, leaving just under  71,000 positions open. 
+ - If every employee who meets the mentorship program actually completes the program and steps into a role being vacated by retirement, this would only fill 2.1% of these positions, leaving just under  71,000 positions open. 
 
 ## Summary
 By creating a new table showing the breakdown of the 1,549 employees that meet the mentorship program criteria by title (shown below), 
@@ -39,7 +39,7 @@ By creating a new table showing the breakdown of the 1,549 employees that meet t
 we can combine these numbers with the retiring employees by title table (shown above) to do some analysis.
 ![Employees retiring and mentorship program by title][https://github.com/bnidam/Pewlett-Hackard-Analysis/blob/main/Resources/Comb_retirecount_mentorcount_title.png]
 
-We've already determined that  72,458, or 24.2%, positions are currently held by employees approaching retirement. Replacing this number of employees will have an enormous impact on Pewlett-Hackard.
+We've already determined that 72,458, or 24.2%, positions are currently held by employees approaching retirement. Replacing this number of employees will have an enormous impact on Pewlett-Hackard.
 
 Half (50%) of the employees approaching retirement age are engineers (36,291): Senior Engineers, Engineers, and Assistant Engineers by title. Senior Engineers make up 71% of all engineers approaching retirement. Staff positions are second largest group approaching retirement age, numbering 32,562 or 45%. Senior Staff makes up 76.5% of all staff approaching retirement. 
 
