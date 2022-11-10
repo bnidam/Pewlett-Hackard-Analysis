@@ -6,7 +6,7 @@ This project uses uses six employee data tables from Pewlett Hackard to analyze 
 ### Purpose 
 This analysis takes a deeper dive into 
  - the group of employee approaching retirement age by looking at their job titles to assess the work groups that will be impacted by the retirements
- - looks at employees outside of the retirement group who could be eligible for a mentorship program to prepare them for the roles that will become vacant with the retirements 
+ - employees outside of the retirement group who could be eligible for a mentorship program to prepare them for the roles that will become vacant with the retirements 
 
 ### Tools used for this project
 The tools used for this project include QuickDBD's ERD for database table planning, pgAdmin and PostgreSQL for database manipulation and table creation used in the analysis.
